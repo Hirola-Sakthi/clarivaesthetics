@@ -786,7 +786,6 @@ textarea.w-select {
   }
 }
 
-
 @media screen and (max-width: 991px) {
   .w-container {
     max-width: 728px;
@@ -848,8 +847,6 @@ textarea.w-select {
     width: 100%;
   }
 }
-
-
 
 @media screen and (max-width: 767px) {
   .w-hidden-main,
@@ -3515,10 +3512,10 @@ a {
 }
 @media (max-width: 1024px) {
   .cta-img {
-  object-fit: fill;
-  object-position: 50% 0%;
-  width: 100%;
-  height: 65%;
+    object-fit: fill;
+    object-position: 50% 0%;
+    width: 100%;
+    height: 65%;
   }
 }
 .cta2-content,
@@ -5651,7 +5648,7 @@ a {
     line-height: 49px;
   }
   h2 {
-    font-size: 30px;
+    font-size: 20px;
     line-height: 41px;
   }
   h3 {
@@ -6177,7 +6174,6 @@ a {
   border-radius: 10px;
 }
 
-
 .blog-cta-button {
   font-size: 16px;
   color: #000;
@@ -6214,12 +6210,11 @@ a {
   padding-top: 20px;
 }
 
-
-.blog-content h1{
+.blog-content h1 {
   font-size: 2rem;
 }
 
-.blog-content h2 strong{
+.blog-content h2 strong {
   font-size: 1.9rem;
 }
 
@@ -6265,10 +6260,10 @@ a {
 }
 @media (max-width: 768px) {
   .btn-floating.phone {
-  bottom: 150px;
-  background-color: #151544;
-    }
+    bottom: 150px;
+    background-color: #151544;
   }
+}
 
 .btn-floating.phone:hover {
   background-color: #151544;
@@ -6280,83 +6275,82 @@ a {
   bottom: 25px;
 }
 @media (max-width: 768px) {
-  .btn-floating.whatsapp  {
-  background-color: #34af23;
-  bottom: 85px;
-    }
+  .btn-floating.whatsapp {
+    background-color: #34af23;
+    bottom: 85px;
   }
+}
 .btn-floating.whatsapp:hover {
   background-color: #1f7a12;
 }
 
-.stars, 
+.stars,
 .star {
-margin-right:25px; 
+  margin-right: 25px;
 }
 .hero-embed-5,
 .hero-embed-6 {
-  margin-right:50px;
+  margin-right: 50px;
 }
 
 .grid-3-columns {
-    grid-column-gap: 28px;
-    grid-row-gap: 28px;
-    grid-template-rows: auto;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-auto-columns: 1fr;
-    display: grid
-;
+  grid-column-gap: 28px;
+  grid-row-gap: 28px;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
 }
 .heading-h2-size {
-    color: var(--black);
-    margin-top: 0;
-    margin-bottom: 0;
-    font-family: Playfair Display, sans-serif;
-    font-size: 28px;
-    font-weight: 600;
-    line-height: 38px;
-    text-align: center;
+  color: var(--black);
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Playfair Display, sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 38px;
+  text-align: center;
 }
 .designation-text {
-    color: var(--black);
-    text-transform: capitalize;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-family: Playfair Display, sans-serif;
-    font-size: 17px;
-    font-weight: 600;
-    line-height: 27px;
-    text-align: center;
+  color: var(--black);
+  text-transform: capitalize;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Playfair Display, sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: center;
 }
 .doctor-qualification {
-    color: var(--black);
-    text-transform: capitalize;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-family: Playfair Display, sans-serif;
-    font-size: 13px;
-    font-weight: 600;
-    line-height: 27px;
-    text-align: center;
+  color: var(--black);
+  text-transform: capitalize;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Playfair Display, sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: center;
 }
 
-.doctor-icon:hover img{
-      background-color: #fff;
+.doctor-icon:hover img {
+  background-color: #fff;
 }
 
 .grid-3-columns-doctors {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); 
-  gap: 30px; 
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
   padding: 20px;
 }
 
 .border-bottom-item {
   display: block;
-  padding: 20px; 
+  padding: 20px;
   text-align: center;
-  border: 1px solid #e0e0e0; 
-  border-radius: 10px; 
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
   background: #fff;
   transition: transform 0.3s ease;
 }
@@ -6372,53 +6366,123 @@ margin-right:25px;
 }
 
 .doctor-name {
-    color: var(--black);
-    margin-top: 0;
-    margin-bottom: 0;
-    font-family: Playfair Display, sans-serif;
-    font-size: 25px;
-    font-weight: 600;
-    line-height: 38px;
-    text-align: center;
-    margin-top: 20px;
+  color: var(--black);
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Playfair Display, sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 38px;
+  text-align: center;
+  margin-top: 20px;
 }
 @media (max-width: 1024px) {
-    .doctor-name {
-        font-size: 17px;
-        line-height: 26px; 
-    }
+  .doctor-name {
+    font-size: 17px;
+    line-height: 26px;
+  }
 }
 
 @media (max-width: 320px) {
-    .doctor-name {
-        font-size: 15px;
-        line-height: 22px;
-    }
+  .doctor-name {
+    font-size: 15px;
+    line-height: 22px;
   }
+}
 
-  @media (max-width: 1024px) {
-    .designation-text {
-        font-size: 13px;
-        line-height: 26px; 
-    }
+@media (max-width: 1024px) {
+  .designation-text {
+    font-size: 13px;
+    line-height: 26px;
+  }
 }
 
 @media (max-width: 320px) {
-    .designation-text {
-        font-size: 11px;
-        line-height: 22px;
-    }
+  .designation-text {
+    font-size: 11px;
+    line-height: 22px;
   }
-    @media (max-width: 1024px) {
-    .doctor-qualification {
-        font-size: 10px;
-        line-height: 26px; 
-    }
+}
+@media (max-width: 1024px) {
+  .doctor-qualification {
+    font-size: 10px;
+    line-height: 26px;
+  }
 }
 
 @media (max-width: 320px) {
-    .doctor-qualification {
-        font-size: 7px;
-        line-height: 22px;
-    }
+  .doctor-qualification {
+    font-size: 7px;
+    line-height: 22px;
   }
+}
+.lips-filter {
+  border-radius: 20px;
+  width: 80%;
+}
+.hair-transplantation {
+  border-radius: 20px;
+  width: 400px;
+  margin-left: 100px;
+}
+
+@media (max-width: 768px) {
+  .hair-transplantation {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
+@media (width: 768px) {
+  .hair-transplantation {
+    width: 400px;
+    margin-left: 150px;
+    margin-right: auto;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .hair-transplantation {
+    width: 400px;
+    margin-left: 80px;
+  }
+}
+
+.chemical-peeling {
+  border-radius: 20px;
+  width: 500px;
+  margin-left: 100px;
+}
+@media (max-width: 768px) {
+  .chemical-peeling {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
+@media (width: 768px) {
+  .chemical-peeling {
+    width: 400px;
+    margin-left: 150px;
+    margin-right: auto;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .chemical-peeling {
+    width: 400px;
+    margin-left: 80px;
+  }
+}
+
+.scar-treatment {
+  border-radius: 20px;
+  width: 80%;
+}
+
+@media (max-width: 768px) {
+  .scar-treatment {
+    border-radius: 20px;
+    width: auto;
+  }
+}
